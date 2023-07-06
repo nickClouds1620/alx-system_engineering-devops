@@ -13,3 +13,4 @@
 12. file type script
 13. creating symbolic linl _ls_
 14. copying html files
+15. move all files with uppercase beginning
