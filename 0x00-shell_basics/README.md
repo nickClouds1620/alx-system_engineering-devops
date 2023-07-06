@@ -7,3 +7,4 @@
 6. create first directory in /tmp/
 7. move file /tmp/betty to my first directory
 8. deleting betty
+9. deletion of my first dir
