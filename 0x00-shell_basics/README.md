@@ -3,3 +3,4 @@
 2. take me to home directory script
 3. list content in long format script
 4. listing hidden files long format
+5. listing files digits only
