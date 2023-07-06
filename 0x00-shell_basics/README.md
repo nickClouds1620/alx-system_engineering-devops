@@ -4,3 +4,4 @@
 3. list content in long format script
 4. listing hidden files long format
 5. listing files digits only
+6. create first directory in /tmp/
