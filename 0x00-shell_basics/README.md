@@ -11,3 +11,4 @@
 10. Script to change working dir to previous one
 11. listing all files in current,parent and /boot dir
 12. file type script
+13. creating symbolic linl _ls_
