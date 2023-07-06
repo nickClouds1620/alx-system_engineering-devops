@@ -9,3 +9,4 @@
 8. deleting betty
 9. deletion of my first dir
 10. Script to change working dir to previous one
+11. listing all files in current,parent and /boot dir
