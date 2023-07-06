@@ -5,3 +5,4 @@
 4. listing hidden files long format
 5. listing files digits only
 6. create first directory in /tmp/
+7. move file /tmp/betty to my first directory
